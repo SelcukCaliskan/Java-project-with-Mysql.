@@ -1,6 +1,6 @@
 package tr.com.selcuk.test;
 
-import tr.com.selcuk.core.ObjectHelper;
+
 import tr.com.selcuk.fe.MainFrame;
 
 public class Run {
@@ -10,7 +10,7 @@ public class Run {
 		
 		
 		new MainFrame();
-		ObjectHelper helper= new ObjectHelper();
+		
 
 	
 		

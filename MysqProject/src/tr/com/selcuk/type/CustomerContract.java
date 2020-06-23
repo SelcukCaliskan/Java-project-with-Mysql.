@@ -24,6 +24,12 @@ public class CustomerContract {
 	public void setSurname(String surname) {
 		this.surname = surname;
 	}
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return name+" "+surname;
+	}
+	
 	
 
 }

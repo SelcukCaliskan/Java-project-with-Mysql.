@@ -8,7 +8,7 @@ public class ObjectHelper {
 	private String userName="root";
 	private String password="";
 
-	private String url="jdbc:mysql://localhost:3306/demo";
+	private String url="jdbc:mysql://localhost:3306/veritabani";
 	private static String driver="com.mysql.jdbc.Driver";
 	
 	

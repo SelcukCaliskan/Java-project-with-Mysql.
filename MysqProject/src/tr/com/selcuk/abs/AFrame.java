@@ -5,7 +5,7 @@ import javax.swing.JPanel;
 
 public abstract class AFrame extends JFrame {
 	
-	public void initFrame(int width,int height,String title,JPanel panel) {
+	public void initFrame(String title,JPanel panel) {
 		
 		add(panel);
 		setTitle(title);
